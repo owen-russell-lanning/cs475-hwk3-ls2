@@ -7,6 +7,8 @@
 #define FALSE 0
 #define INDENT "    "
 
-// TODO: Function declarations here for ls2
+
+char *ls2(char *path, int index);
+int countls2(char *path);
 
 #endif
